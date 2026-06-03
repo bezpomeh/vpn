@@ -1,7 +1,7 @@
 #profile-title: Без помех | Белые списки
-#announce: Использовать только на мобильном интернете при белых списках!
+#announce: Использовать только на мобильном интернете при белых списках! Не использовать в гос. приложениях и банках!!!
 #profile-update-interval: 3
-#support-url: https://t.me/bez_pomeh_wl
+#support-url: https://t.me/bez_pomeh
 vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?path=%2Flivestreamcontent%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=top707762634.mwscdn.ru#%F0%9F%87%B2%F0%9F%87%A9%2B%F0%9F%93%B6LTE%7C%40xex_vpn%2B%23524
 vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?path=%2Flivestreamcontent%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=top707762634.mwscdn.ru#%F0%9F%87%B2%F0%9F%87%A9%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%D1%8B%2B-%2BTG%3A%2BAirLinkVPNBot%2B%7C0192%7C
 vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?mode=packet-up&path=%2Flivestreamcontent%2F&security=tls&encryption=none&insecure=0&host=top3739667002.mwscdn.ru&type=xhttp&allowInsecure=0&sni=top3739667002.mwscdn.ru#%F0%9F%87%B7%F0%9F%87%BA%2B%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2B1%2B%7C%2B%5BWL%5D
